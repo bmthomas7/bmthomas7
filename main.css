@@ -1,0 +1,160 @@
+body {
+    margin: 0px;
+    background: url(images/metalbackground.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+
+    flex-direction: column;
+    }
+
+header h2{
+    color: white;
+}
+
+header h4{
+    color: grey;
+}
+
+nav {
+    background-color: red;
+    color: white;
+    float: top;
+}
+
+.logowrapper ul li {
+    display:inline-block;
+    padding: 1em 1em 1em 1em;
+}
+
+    
+header {
+font-family: monospace;
+
+
+}
+
+.sidebarWrapper {
+    background-color: rgb(177, 46, 46);
+    color: black;
+    float: left;
+    width: 30em;
+    height: 120em;
+    font-family: monospace;
+}
+
+.projectwrapper h2 {
+    color: white;
+    float: left;
+    font-family: monospace;
+    padding: 1em 1em 1em 1em;
+    font-size: 5em;
+}
+
+.projectwrapper img {
+    width: 40em;
+    height: 9em;
+    border: solid;
+    border-width: .2em .2em 0 .2em;
+    border-color: white;
+    border-radius: 3em 3em 0 0;
+}
+
+.projectwrapper button {
+    width: 40em;
+    height: 5em;
+    border: solid;
+    border-width: 0 .2em .2em .2em;
+    border-color:White;
+    border-radius: 0 0 3em 3em;
+    background-color: grey;
+    color: white;
+}
+
+
+
+
+.sidebarWrapper h1 {
+    text-align: center;
+    color: white;
+    font-size: 3em;
+    padding: 1em 0 1em 0;
+    
+}
+
+.sidebarWrapper h2 {
+    color: white;
+    padding: 1em;
+}
+
+.sidebarWrapper h3 p {
+    padding: 1em;
+    color: white;
+}
+
+.profilepic img {
+    width: 20em;
+    height: 20em;
+    border-radius: 10em;
+    border-width: .2em;
+    border: solid;
+    border-color: whitesmoke;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul {
+    list-style-type: none;
+    display: inline;
+}
+
+
+
+img {
+    width: 3em;
+    height: 3em;
+    display: block;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-radius: 1.5em;
+
+}
+
+footer {
+    background-color: rgb(177, 46, 46);
+    font-size: 1em;
+    height: 50px;
+ 
+    top: auto;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    display: inline-block;
+
+
+
+}
+
+footer li {
+    list-style-type: none;
+    display: inline;
+
+}
+
+footer a {
+    color: grey;
+
+}
+
+.dropdown {
+    width: 9em;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1em 1em 1em 1em;
+}
+
+
+
+
+
